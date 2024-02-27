@@ -1,6 +1,9 @@
 <h1 align="center"><em>SISTEMA DE REGISTRO</em></h1>
 
 - Estado del proyecto: En construcción.
+- Para ejecutar el sistema debe poner:
+  
+```npm install react```
 
 > Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/)
 
