@@ -5,6 +5,8 @@
   
 ```npm install react```
 
+Sistema de registro 2
+
 > Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/)
 
 > *Repositório:* [GlicoCare](https://github.com/camilafernanda/GlicoCare)
